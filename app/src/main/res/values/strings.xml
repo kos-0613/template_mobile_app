@@ -7,4 +7,10 @@
     <string name="title_update">更新</string>
     <string name="msg_success_snack_bar">%1$sしました</string>
     <string name="msg_delete_confirmation">「%1$s」を削除します。\nよろしいですか？</string>
+    *<!--    fragment_edit.xml-->*
+    <string name="title_header">タイトル</string>
+    <string name="title_counter">0/100</string>
+    <string name="detail_header">詳細</string>
+    <string name="detail_counter">0/1000</string>
+    <string name="date_header">日づけ</string>
 </resources>

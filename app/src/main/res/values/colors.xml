@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorToolbar">#429B76</color>
+    <color name="fragment_background">#ffffff</color>
+    <color name="fragment_text">#000000</color>
+    <color name="btn_register">#008CDB</color>
+    <color name="btn_register_disable">#979797</color>
 </resources>
